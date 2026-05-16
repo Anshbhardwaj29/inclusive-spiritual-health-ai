@@ -1,0 +1,24 @@
+# Virtual Environment
+whisper_env/
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Large Model Weights & HuggingFace Cache
+.cache/
+huggingface/
+hub/
+*.bin
+*.pt
+*.pth

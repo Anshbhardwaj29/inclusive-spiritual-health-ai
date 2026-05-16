@@ -1,0 +1,23 @@
+# AI Engine & API
+requests
+transformers<4.39.0
+protobuf
+huggingface_hub
+
+# Speech to Text (Whisper)
+openai-whisper
+torch
+torchvision
+torchaudio
+
+# Audio Recording
+sounddevice
+scipy
+
+# Text to Speech (Indian Accent Fix)
+gTTS
+playsound==1.2.2
+
+# System Utilities
+numpy
+sentencepiece
